@@ -1,4 +1,4 @@
-# connectem
+# connectem-VibeLink
 
 Work_Flow/connectem — backend for the Connectem project.
 

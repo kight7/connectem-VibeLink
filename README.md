@@ -2,7 +2,7 @@
 
 Work_Flow/connectem — backend for the Connectem project.
 
-This repository contains the backend for the Connectem project. It's a Python web application (FastAPI/Django/Flask — update this line if needed).
+This repository contains the backend for the Connectem project. It's a Python web application FastAPI, PostgreSQL.
 
 How to use
 
